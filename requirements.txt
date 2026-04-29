@@ -1,0 +1,9 @@
+# --- Image Processing & Math ---
+numpy
+Pillow
+scikit-image
+
+# --- Visualization & Utilities ---
+matplotlib
+tqdm
+jupyter
